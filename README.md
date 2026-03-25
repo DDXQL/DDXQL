@@ -4,9 +4,11 @@ Incoming MSc @ **South China University of Technology (SCUT)** | Software Engine
 
 Focusing on AI Agent, RAG applications, and LLM system development.
 
+AI 应用开发 / Agent 方向
+
 ## Featured Projects
 
-### Finance Agent
+### Finance Agent（金融分析智能体）
 > A-share market data analysis system
 
 - Multi-agent pipeline with LangGraph
@@ -15,7 +17,7 @@ Focusing on AI Agent, RAG applications, and LLM system development.
 
 ---
 
-### RAG Mental Health QA System
+### RAG Mental Health QA System（心理健康问答系统）
 > Mental health knowledge Q&A for university students
 
 - LangChain + RAG for psychological knowledge retrieval
@@ -23,7 +25,7 @@ Focusing on AI Agent, RAG applications, and LLM system development.
 
 ---
 
-### LoRA Fine-tuning Notes
+### LoRA Fine-tuning Notes（LLM 微调实践）
 > LLM fine-tuning experiments
 
 - LoRA experiments on ChatGLM3-6B and Qwen series
