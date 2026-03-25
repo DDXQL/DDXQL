@@ -1,34 +1,33 @@
-# Hi there
-
 ## About Me
 
-Incoming MSc @ **SCUT** | Software Engineering
+Incoming MSc @ **South China University of Technology (SCUT)** | Software Engineering
 
-Building AI Agent systems, RAG applications, and LLM-based tools.
+Focusing on AI Agent, RAG applications, and LLM system development.
 
 ## Featured Projects
 
 ### Finance Agent
-> Multi-Agent stock analysis system
+> A-share market data analysis system
 
-- LangGraph orchestration + Qwen3-8B fine-tuning
-- MCP protocol for financial data integration
+- Multi-agent pipeline with LangGraph
+- Qwen3-8B fine-tuning for sentiment analysis
+- MCP-based financial data integration
 
 ---
 
 ### RAG Mental Health QA System
-> Psychological knowledge base assistant
+> Mental health knowledge Q&A for university students
 
-- LangChain + RAG pipeline
-- Emotion-aware LLM responses
+- LangChain + RAG for psychological knowledge retrieval
+- ChatGLM3-6B fine-tuning for empathetic responses
 
 ---
 
 ### LoRA Fine-tuning Notes
-> Practical guide for LLM fine-tuning
+> LLM fine-tuning experiments
 
-- LoRA experiments on multiple base models
-- Training recipes and best practices
+- LoRA experiments on ChatGLM3-6B and Qwen series
+- Training configs and evaluation results
 
 ## Tech Stack
 
