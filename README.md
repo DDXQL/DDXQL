@@ -6,6 +6,11 @@ Focusing on AI Agent, RAG applications, and LLM system development.
 
 AI 应用开发 / Agent 方向
 
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sorrymaker9331&hide_border=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sorrymaker9331&hide_border=true&theme=transparent&layout=compact)
+
 ## Featured Projects
 
 ### Finance Agent（金融分析智能体）
